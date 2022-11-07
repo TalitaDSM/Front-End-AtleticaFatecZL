@@ -1,0 +1,7 @@
+.cadastro__textarea {
+    width: 99%;
+    color:white;
+    border: 2px solid var(--formulario-borda);
+    border-radius: 6px;
+    margin-bottom: .4em;
+}

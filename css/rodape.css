@@ -1,0 +1,6 @@
+.rodape {
+    text-align: center;
+    padding-top: 1.5em;
+    background-color: #BB2020;
+    color: var(--branco-texto);
+}

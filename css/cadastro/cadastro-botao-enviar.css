@@ -1,0 +1,36 @@
+.cadastro__botoes {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.cadastro___botao {
+    width: 48%;
+    height: 40px;
+    background-color: rgb(156, 142, 142);
+    border-radius: 6%;
+    color: black;
+    font-weight: 700;    
+    cursor: pointer;
+}
+
+
+@media screen and (max-width: 1024px) {
+   .cadastro___botoes {
+       width: 60%;
+   }
+}
+
+
+@media screen and (max-width: 550px) {
+    .cadastro___botoes {
+        width: 90%;
+    }
+
+    .cadastro___botao {
+        width: 48%;
+    }
+
+}
