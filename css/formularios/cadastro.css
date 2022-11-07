@@ -1,4 +1,4 @@
-.container{
+.container_cadastro{
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -6,11 +6,11 @@
 }
 
 .cadastro{
-    background-color: #630101;
-    color: white;
+    background-color: #ffffff;
+    color: black;
     margin: 2% 2% 2% 45%;
     padding: 2%;
-    border-radius: 14px;
+    border-radius: 6px;
 }
 
 .cadastro__form{
@@ -33,18 +33,6 @@
     justify-content: space-around;
 }
 
-.botao__cadastrar{
-    width: 120px;
-    height: 3rem;
-    border-radius: 12px;
-    border: 3px grey solid;
-}
-
-.botao__cadastrar:hover{
-    border-color: yellow;
-    cursor: pointer;
-}
-
 .form__campos label{
     padding-top: 1rem;
     padding-left: 0.3rem;
@@ -52,11 +40,31 @@
 }
 
 .form__campos  input{
-    border-radius: 12px;
+    border-radius: 4px;
     height: 2em;
+    width: 100%;
+    height: 25px;
+    border: 2px solid var(--formulario-borda);
+    border-radius: 6px;
+    margin-bottom: 0.4em;
 }
 
+.botao__cadastrar{
+    justify-content: space-between;
+    text-decoration: none; 
+    width: 85px;
+    height: 40px;
+    background-color: #BB2020;
+    border: none;
+    border-radius: 6%;
+    color: white;
+    font-weight: 700;    
+}
 
+.botao__cadastrar:hover{
+    cursor: pointer;
+    text-decoration: none;
+}
 
 /*
 .campo__label-email{}

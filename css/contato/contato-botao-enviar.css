@@ -7,12 +7,13 @@
 
 
 .contato__botao {
-    width: 48%;
+    width: 35%;
     height: 40px;
-    background-color: rgb(156, 142, 142);
+    background-color: #BB2020;
     border-radius: 6%;
-    color: black;
-    font-weight: 700;    
+    border: none;
+    color: white;
+    font-weight: 500;    
     cursor: pointer;
 }
 
