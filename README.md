@@ -1,5 +1,4 @@
-# Front-End-AtleticaFatecZL
-Projeto interdisciplinar do Curso de Desenvolvimento de Software Multiplataforma da Fatec Zona Leste - Tema: Sistema web da Atlética da Fatec ZL
+Atlética FATEC Zona Leste
+Projeto interdisciplinar do 3º Semestre do Curso de Desenvolvimento de Software Multiplataforma da Fatec Zona Leste - Tema: Sistema web da Atlética da Fatec ZL - 2022
 
-This repository holds a web based software developed of Software Developer graduation course at FATEC. Theme: Athletic Commission
-
+Link: https://talitaDSM.github.io/
